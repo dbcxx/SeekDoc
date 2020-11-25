@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeekDoc", "SeekDoc.csproj", "{09741532-32C3-4F3F-96F7-AAEC4320627D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09741532-32C3-4F3F-96F7-AAEC4320627D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09741532-32C3-4F3F-96F7-AAEC4320627D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09741532-32C3-4F3F-96F7-AAEC4320627D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09741532-32C3-4F3F-96F7-AAEC4320627D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C0A35A-7037-4D25-9EA9-ED505FF73DBF}
+	EndGlobalSection
+EndGlobal
